@@ -59,3 +59,8 @@ $ run
 
 ##### Update
 ![update](https://user-images.githubusercontent.com/45765946/115542702-2c8f3200-a2be-11eb-935f-344a18738402.png)
+
+#### the application details from how to 'set up a local environment with all required dependencies' to 'deployment to Heroku' .
+## wanna try ? click below
+
+# [TODOO-APP](https://todoo-ap.herokuapp.com/)
