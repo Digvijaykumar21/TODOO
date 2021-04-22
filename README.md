@@ -2,6 +2,7 @@
 ### USING FLASK, SQLAlchemy and SQLite database and Bootstrap.
 
 For styling and html [BOOTSTRAP](https://getbootstrap.com/) is used.
+For database sqllite is used.
 
 ### Setup
 Create project with virtual environment
